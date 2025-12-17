@@ -166,9 +166,9 @@ If you use EasyML in your research, please cite:
 ```bibtex
 @mastersthesis{easyml2024,
   title={EasyML: An Efficient AutoML System Using Meta-Learning and Particle Swarm Optimization},
-  author={[Your Name]},
+  author={Lyinder Swale},
   year={2024},
-  school={[Your University]}
+  school={Universidade Nova de Lisboa (Nova IMS)}
 }
 ```
 
